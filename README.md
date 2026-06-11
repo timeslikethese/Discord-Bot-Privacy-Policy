@@ -45,3 +45,7 @@ User presence information (online/offline/idle statuses) is not tracked or store
 # Data sharing
 
 Your data is not sold, leased, or transferred to any other party under any circumstances.
+
+# Contact
+
+If you have questions regarding this Privacy Policy or your data, please contact the developer through Discord.
