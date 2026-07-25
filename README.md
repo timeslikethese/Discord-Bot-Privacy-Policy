@@ -5,7 +5,7 @@ Last Updated: June 2026
 
 # Overview
 
-This Privacy Policy outlines how the Barbie Discord Bot ("Bot") processes information during its operation in Discord channels.
+This Privacy Policy outlines how the AR#6108 Discord Bot ("Bot") processes information during its operation in Discord channels.
 
 By using the Bot, you accept the terms of this policy.
 
